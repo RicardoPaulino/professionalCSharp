@@ -5,5 +5,5 @@
     da plataforma .NET utilizando a linguagem C#.
 </p>
 <h1>
-    <img align="center" src="./assets/img/book.png">
+    <img align="center" src="https://commons.wikimedia.org/wiki/File:C_Sharp_logo.svg#/media/Ficheiro:C_Sharp_logo.svg">
 </h1>
