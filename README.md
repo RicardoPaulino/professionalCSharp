@@ -5,5 +5,5 @@
   - *SDK .NET 4 or newer*
   - *Visual Studio 2012 or newer*
 ## Init a Project 
-   ### To init a console application at Visual Studio, you will need to follow the example above.
+   ### To init a console application at Visual Studio, you will need to follow the example below.
     
